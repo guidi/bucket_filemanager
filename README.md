@@ -21,3 +21,6 @@ O tamanho dos arquivos utiliza unidades como KB ou MB e é possível excluir ite
 
 ## Cache em memória
 Os diretórios já consultados ficam armazenados para evitar novas chamadas. O botão **Atualizar** remove apenas o cache do caminho aberto e recarrega as informações exibindo uma barra de progresso durante a operação.
+
+![image](https://github.com/user-attachments/assets/492aa989-20ae-499f-a220-022ef71968f8)
+
